@@ -1,0 +1,129 @@
+{
+  "data": {
+    "nodeProjects": {
+      "__typename": "NodeProjectConnection",
+      "nodes": [
+        {
+          "__typename": "NodeProject",
+          "id": "project-civic-center",
+          "title": "Riverside Civic Center",
+          "path": "/projects/riverside-civic-center",
+          "body": {
+            "processed": "<p>A landmark civic building designed to serve as the cultural and administrative heart of the community. The design integrates public gathering spaces with government offices, creating a welcoming and transparent environment.</p><h2>Design Concept</h2><p>Inspired by the adjacent river, the building features flowing curves and extensive glazing that connects interior spaces to the natural landscape. A central atrium acts as a town square, hosting events and exhibitions throughout the year.</p><h2>Sustainability</h2><ul><li>LEED Platinum certified</li><li>Geothermal heating and cooling system</li><li>Green roof with native plantings</li><li>Rainwater harvesting for landscape irrigation</li></ul>",
+            "summary": "A landmark civic building designed to serve as the cultural and administrative heart of the community. The design integrates public gathering spaces with government offices, creating a welcoming and t"
+          },
+          "projectType": "Civic & Cultural",
+          "location": "Portland, Oregon",
+          "yearCompleted": "2023",
+          "squareFootage": "85,000 sq ft",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+            "alt": "Modern civic center with glass facade",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProject",
+          "id": "project-tower",
+          "title": "Meridian Tower",
+          "path": "/projects/meridian-tower",
+          "body": {
+            "processed": "<p>A 42-story mixed-use tower that redefines the downtown skyline. The design balances commercial efficiency with residential comfort, creating a vertical neighborhood in the heart of the city.</p><h2>Program</h2><ul><li>Floors 1-5: Retail and restaurant spaces</li><li>Floors 6-25: Class A office space</li><li>Floors 26-40: Luxury residential condominiums</li><li>Floors 41-42: Sky lounge and amenity deck</li></ul><h2>Structural Innovation</h2><p>The tower employs an exoskeleton structural system that eliminates interior columns, providing maximum flexibility for tenants while creating a distinctive architectural expression on the facade.</p>",
+            "summary": "A 42-story mixed-use tower that redefines the downtown skyline. The design balances commercial efficiency with residential comfort, creating a vertical neighborhood in the heart of the city.ProgramFlo"
+          },
+          "projectType": "Commercial & Residential",
+          "location": "Chicago, Illinois",
+          "yearCompleted": "2024",
+          "squareFootage": "620,000 sq ft",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=800&q=80",
+            "alt": "Modern glass skyscraper against blue sky",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProject",
+          "id": "project-museum",
+          "title": "Contemporary Arts Museum",
+          "path": "/projects/contemporary-arts-museum",
+          "body": {
+            "processed": "<p>A museum designed as a work of art itself. The building provides flexible gallery spaces that can accommodate everything from intimate installations to large-scale exhibitions.</p><h2>Design Philosophy</h2><p>The museum is organized around a central spiral ramp that guides visitors through a journey of discovery. Natural light is carefully controlled through a series of skylights and light wells that create ever-changing atmospheric conditions throughout the day.</p><h2>Materials</h2><ul><li>Weathering steel exterior that evolves with time</li><li>Polished concrete floors throughout gallery spaces</li><li>Custom acoustic ceiling panels for performance spaces</li><li>Floor-to-ceiling glass walls in the sculpture garden</li></ul>",
+            "summary": "A museum designed as a work of art itself. The building provides flexible gallery spaces that can accommodate everything from intimate installations to large-scale exhibitions.Design PhilosophyThe mus"
+          },
+          "projectType": "Cultural",
+          "location": "Santa Fe, New Mexico",
+          "yearCompleted": "2022",
+          "squareFootage": "45,000 sq ft",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+            "alt": "Contemporary museum with angular architecture",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

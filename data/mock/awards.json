@@ -1,0 +1,126 @@
+{
+  "data": {
+    "nodeAwards": {
+      "__typename": "NodeAwardConnection",
+      "nodes": [
+        {
+          "__typename": "NodeAward",
+          "id": "award-aia-honor",
+          "title": "AIA National Honor Award for Architecture",
+          "path": "/awards/aia-national-honor-award-2024",
+          "body": {
+            "processed": "<p>The Riverside Civic Center was recognized with the AIA National Honor Award for its innovative approach to civic architecture. The jury praised the building's seamless integration of public and administrative functions and its commitment to environmental sustainability.</p>",
+            "summary": "The Riverside Civic Center was recognized with the AIA National Honor Award for its innovative approach to civic architecture. The jury praised the building's seamless integration of public and admini"
+          },
+          "awardingBody": "American Institute of Architects",
+          "awardYear": "2024",
+          "projectName": "Riverside Civic Center",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+            "alt": "Award-winning Riverside Civic Center",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeAward",
+          "id": "award-riba",
+          "title": "RIBA International Prize Shortlist",
+          "path": "/awards/riba-international-prize-2023",
+          "body": {
+            "processed": "<p>The Contemporary Arts Museum was shortlisted for the RIBA International Prize, recognizing it as one of the most significant and inspirational buildings of the year. The jury noted the building's ability to create a sense of wonder while serving its functional requirements with elegance.</p>",
+            "summary": "The Contemporary Arts Museum was shortlisted for the RIBA International Prize, recognizing it as one of the most significant and inspirational buildings of the year. The jury noted the building's abil"
+          },
+          "awardingBody": "Royal Institute of British Architects",
+          "awardYear": "2023",
+          "projectName": "Contemporary Arts Museum",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+            "alt": "RIBA-shortlisted Contemporary Arts Museum",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeAward",
+          "id": "award-green",
+          "title": "Green Building Council Award of Excellence",
+          "path": "/awards/green-building-excellence-2023",
+          "body": {
+            "processed": "<p>Atelier Voss received the Green Building Council's Award of Excellence for sustained commitment to sustainable design. The firm has achieved LEED certification on over 85% of its projects and has been a leader in passive house design for commercial buildings.</p>",
+            "summary": "Atelier Voss received the Green Building Council's Award of Excellence for sustained commitment to sustainable design. The firm has achieved LEED certification on over 85% of its projects and has been"
+          },
+          "awardingBody": "US Green Building Council",
+          "awardYear": "2023",
+          "projectName": "Firm-Wide Recognition",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1518005068251-37900150dfca?w=800&q=80",
+            "alt": "Sustainable building design with green features",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1518005068251-37900150dfca?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1518005068251-37900150dfca?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1518005068251-37900150dfca?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

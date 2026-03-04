@@ -1,0 +1,639 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Atelier Voss Architects Homepage",
+          "path": "/homepage",
+          "heroTitle": "Spaces That Inspire, Structures That Endure",
+          "heroSubtitle": "Atelier Voss Architects",
+          "heroDescription": {
+            "processed": "<p>We design buildings that respond to their environment, serve their communities, and stand the test of time. From concept to completion, every detail matters.</p>",
+            "summary": "We design buildings that respond to their environment, serve their communities, and stand the test of time. From concept to completion, every detail matters."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-1",
+              "title": "",
+              "number": "200+",
+              "label": "Projects Completed"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-2",
+              "title": "",
+              "number": "35",
+              "label": "Design Awards"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-3",
+              "title": "",
+              "number": "18",
+              "label": "Countries"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-4",
+              "title": "",
+              "number": "30+",
+              "label": "Years of Practice"
+            }
+          ],
+          "featuredItemsTitle": "Selected Projects",
+          "ctaTitle": "Start Your Project With Us",
+          "ctaDescription": {
+            "processed": "<p>Whether you are planning a residential home, a commercial development, or a cultural institution, our team brings vision and precision to every project.</p>",
+            "summary": "Whether you are planning a residential home, a commercial development, or a cultural institution, our team brings vision and precision to every project."
+          },
+          "ctaPrimary": "Discuss Your Project",
+          "ctaSecondary": "View Portfolio"
+        }
+      }
+    }
+  },
+  "/projects/riverside-civic-center": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProject",
+          "id": "project-civic-center",
+          "title": "Riverside Civic Center",
+          "path": "/projects/riverside-civic-center",
+          "body": {
+            "processed": "<p>A landmark civic building designed to serve as the cultural and administrative heart of the community. The design integrates public gathering spaces with government offices, creating a welcoming and transparent environment.</p><h2>Design Concept</h2><p>Inspired by the adjacent river, the building features flowing curves and extensive glazing that connects interior spaces to the natural landscape. A central atrium acts as a town square, hosting events and exhibitions throughout the year.</p><h2>Sustainability</h2><ul><li>LEED Platinum certified</li><li>Geothermal heating and cooling system</li><li>Green roof with native plantings</li><li>Rainwater harvesting for landscape irrigation</li></ul>",
+            "summary": "A landmark civic building designed to serve as the cultural and administrative heart of the community. The design integrates public gathering spaces with government offices, creating a welcoming and t"
+          },
+          "projectType": "Civic & Cultural",
+          "location": "Portland, Oregon",
+          "yearCompleted": "2023",
+          "squareFootage": "85,000 sq ft",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+            "alt": "Modern civic center with glass facade",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/projects/meridian-tower": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProject",
+          "id": "project-tower",
+          "title": "Meridian Tower",
+          "path": "/projects/meridian-tower",
+          "body": {
+            "processed": "<p>A 42-story mixed-use tower that redefines the downtown skyline. The design balances commercial efficiency with residential comfort, creating a vertical neighborhood in the heart of the city.</p><h2>Program</h2><ul><li>Floors 1-5: Retail and restaurant spaces</li><li>Floors 6-25: Class A office space</li><li>Floors 26-40: Luxury residential condominiums</li><li>Floors 41-42: Sky lounge and amenity deck</li></ul><h2>Structural Innovation</h2><p>The tower employs an exoskeleton structural system that eliminates interior columns, providing maximum flexibility for tenants while creating a distinctive architectural expression on the facade.</p>",
+            "summary": "A 42-story mixed-use tower that redefines the downtown skyline. The design balances commercial efficiency with residential comfort, creating a vertical neighborhood in the heart of the city.ProgramFlo"
+          },
+          "projectType": "Commercial & Residential",
+          "location": "Chicago, Illinois",
+          "yearCompleted": "2024",
+          "squareFootage": "620,000 sq ft",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=800&q=80",
+            "alt": "Modern glass skyscraper against blue sky",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/projects/contemporary-arts-museum": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProject",
+          "id": "project-museum",
+          "title": "Contemporary Arts Museum",
+          "path": "/projects/contemporary-arts-museum",
+          "body": {
+            "processed": "<p>A museum designed as a work of art itself. The building provides flexible gallery spaces that can accommodate everything from intimate installations to large-scale exhibitions.</p><h2>Design Philosophy</h2><p>The museum is organized around a central spiral ramp that guides visitors through a journey of discovery. Natural light is carefully controlled through a series of skylights and light wells that create ever-changing atmospheric conditions throughout the day.</p><h2>Materials</h2><ul><li>Weathering steel exterior that evolves with time</li><li>Polished concrete floors throughout gallery spaces</li><li>Custom acoustic ceiling panels for performance spaces</li><li>Floor-to-ceiling glass walls in the sculpture garden</li></ul>",
+            "summary": "A museum designed as a work of art itself. The building provides flexible gallery spaces that can accommodate everything from intimate installations to large-scale exhibitions.Design PhilosophyThe mus"
+          },
+          "projectType": "Cultural",
+          "location": "Santa Fe, New Mexico",
+          "yearCompleted": "2022",
+          "squareFootage": "45,000 sq ft",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+            "alt": "Contemporary museum with angular architecture",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/team/lars-voss": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeamMember",
+          "id": "team-lars",
+          "title": "Lars Voss",
+          "path": "/team/lars-voss",
+          "body": {
+            "processed": "<p>Lars founded Atelier Voss in 1994 after practicing with Renzo Piano Building Workshop in Genoa. His work spans cultural institutions, civic buildings, and high-rise towers across four continents. He holds a Master of Architecture from the ETH Zurich and has lectured at Harvard GSD and Columbia GSAPP.</p>",
+            "summary": "Lars founded Atelier Voss in 1994 after practicing with Renzo Piano Building Workshop in Genoa. His work spans cultural institutions, civic buildings, and high-rise towers across four continents. He h"
+          },
+          "position": "Founding Principal",
+          "email": "lars@ateliervoss.com",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+            "alt": "Lars Voss, Founding Principal",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/team/maya-nakamura": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeamMember",
+          "id": "team-maya",
+          "title": "Maya Nakamura",
+          "path": "/team/maya-nakamura",
+          "body": {
+            "processed": "<p>Maya leads the firm's sustainable design practice. With a dual degree in architecture and environmental engineering from MIT, she has pioneered the integration of passive design strategies and renewable energy systems in large-scale projects. Her work has been recognized by the AIA Committee on the Environment.</p>",
+            "summary": "Maya leads the firm's sustainable design practice. With a dual degree in architecture and environmental engineering from MIT, she has pioneered the integration of passive design strategies and renewab"
+          },
+          "position": "Partner, Sustainability",
+          "email": "maya@ateliervoss.com",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80",
+            "alt": "Maya Nakamura, Partner",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/team/diego-marquez": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeamMember",
+          "id": "team-diego",
+          "title": "Diego Marquez",
+          "path": "/team/diego-marquez",
+          "body": {
+            "processed": "<p>Diego directs the firm's urban design and master planning studio. His projects range from waterfront redevelopments to transit-oriented communities. Before joining Atelier Voss, he spent eight years at OMA in Rotterdam, working on large-scale urban projects across Europe and Asia.</p>",
+            "summary": "Diego directs the firm's urban design and master planning studio. His projects range from waterfront redevelopments to transit-oriented communities. Before joining Atelier Voss, he spent eight years a"
+          },
+          "position": "Partner, Urban Design",
+          "email": "diego@ateliervoss.com",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80",
+            "alt": "Diego Marquez, Partner",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/awards/aia-national-honor-award-2024": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAward",
+          "id": "award-aia-honor",
+          "title": "AIA National Honor Award for Architecture",
+          "path": "/awards/aia-national-honor-award-2024",
+          "body": {
+            "processed": "<p>The Riverside Civic Center was recognized with the AIA National Honor Award for its innovative approach to civic architecture. The jury praised the building's seamless integration of public and administrative functions and its commitment to environmental sustainability.</p>",
+            "summary": "The Riverside Civic Center was recognized with the AIA National Honor Award for its innovative approach to civic architecture. The jury praised the building's seamless integration of public and admini"
+          },
+          "awardingBody": "American Institute of Architects",
+          "awardYear": "2024",
+          "projectName": "Riverside Civic Center",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+            "alt": "Award-winning Riverside Civic Center",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/awards/riba-international-prize-2023": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAward",
+          "id": "award-riba",
+          "title": "RIBA International Prize Shortlist",
+          "path": "/awards/riba-international-prize-2023",
+          "body": {
+            "processed": "<p>The Contemporary Arts Museum was shortlisted for the RIBA International Prize, recognizing it as one of the most significant and inspirational buildings of the year. The jury noted the building's ability to create a sense of wonder while serving its functional requirements with elegance.</p>",
+            "summary": "The Contemporary Arts Museum was shortlisted for the RIBA International Prize, recognizing it as one of the most significant and inspirational buildings of the year. The jury noted the building's abil"
+          },
+          "awardingBody": "Royal Institute of British Architects",
+          "awardYear": "2023",
+          "projectName": "Contemporary Arts Museum",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+            "alt": "RIBA-shortlisted Contemporary Arts Museum",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/awards/green-building-excellence-2023": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAward",
+          "id": "award-green",
+          "title": "Green Building Council Award of Excellence",
+          "path": "/awards/green-building-excellence-2023",
+          "body": {
+            "processed": "<p>Atelier Voss received the Green Building Council's Award of Excellence for sustained commitment to sustainable design. The firm has achieved LEED certification on over 85% of its projects and has been a leader in passive house design for commercial buildings.</p>",
+            "summary": "Atelier Voss received the Green Building Council's Award of Excellence for sustained commitment to sustainable design. The firm has achieved LEED certification on over 85% of its projects and has been"
+          },
+          "awardingBody": "US Green Building Council",
+          "awardYear": "2023",
+          "projectName": "Firm-Wide Recognition",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1518005068251-37900150dfca?w=800&q=80",
+            "alt": "Sustainable building design with green features",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1518005068251-37900150dfca?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1518005068251-37900150dfca?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1518005068251-37900150dfca?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/london-office-opening": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-expansion",
+          "title": "Atelier Voss Opens London Studio",
+          "path": "/news/london-office-opening",
+          "body": {
+            "processed": "<p>We are excited to announce the opening of our London studio, marking a significant expansion of our international practice. Located in Clerkenwell, the studio will serve as the base for our growing portfolio of European projects.</p><p>The London office will be led by Partner Maya Nakamura and will focus on cultural, commercial, and residential projects across the UK and Europe.</p>",
+            "summary": "We are excited to announce the opening of our London studio, marking a significant expansion of our international practice. Located in Clerkenwell, the studio will serve as the base for our growing po"
+          },
+          "newsCategory": "Firm News",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+            "alt": "London cityscape",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/oslo-opera-competition-win": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-competition",
+          "title": "Atelier Voss Wins Oslo Opera House Extension Competition",
+          "path": "/news/oslo-opera-competition-win",
+          "body": {
+            "processed": "<p>Our design for the Oslo Opera House extension has been selected from an international shortlist of 120 entries. The winning proposal creates a new performance hall and public landscape that extends the iconic waterfront building.</p><p>The project, expected to break ground in 2026, will add 25,000 square meters of performance and rehearsal spaces while maintaining the beloved public roof of the original building.</p>",
+            "summary": "Our design for the Oslo Opera House extension has been selected from an international shortlist of 120 entries. The winning proposal creates a new performance hall and public landscape that extends th"
+          },
+          "newsCategory": "Competition",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&q=80",
+            "alt": "Architectural competition model",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/carbon-neutral-commitment": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-sustainability",
+          "title": "Atelier Voss Commits to Carbon-Neutral Design by 2030",
+          "path": "/news/carbon-neutral-commitment",
+          "body": {
+            "processed": "<p>We have pledged that all new projects designed after 2030 will be operationally carbon neutral. This commitment includes investing in research on low-carbon materials, embodied carbon reduction strategies, and renewable energy integration.</p><p>As part of this initiative, we are establishing a dedicated research lab focused on sustainable materials and construction methods.</p>",
+            "summary": "We have pledged that all new projects designed after 2030 will be operationally carbon neutral. This commitment includes investing in research on low-carbon materials, embodied carbon reduction strate"
+          },
+          "newsCategory": "Sustainability",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+            "alt": "Sustainable architecture with green elements",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "about-page",
+          "title": "About Atelier Voss Architects",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Atelier Voss is an internationally recognized architecture firm founded in 1994. With studios in New York, Portland, and London, we design buildings and spaces that enrich the lives of the people who use them.</p><h2>Design Philosophy</h2><p>We believe that great architecture emerges from a deep understanding of place, program, and people. Every project begins with listening - to clients, communities, and the site itself. From this understanding, we craft designs that are both innovative and contextually responsive.</p><h2>Practice Areas</h2><ul><li><strong>Cultural & Civic</strong> - Museums, libraries, performing arts centers, government buildings</li><li><strong>Commercial</strong> - Office towers, mixed-use developments, hospitality</li><li><strong>Residential</strong> - Custom homes, multi-family housing, senior living</li><li><strong>Urban Design</strong> - Master planning, campus design, public spaces</li></ul>",
+            "summary": "Atelier Voss is an internationally recognized architecture firm founded in 1994. With studios in New York, Portland, and London, we design buildings and spaces that enrich the lives of the people who "
+          }
+        }
+      }
+    }
+  },
+  "/contact": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "contact-page",
+          "title": "Contact Atelier Voss",
+          "path": "/contact",
+          "body": {
+            "processed": "<p>We welcome inquiries about new projects, collaborations, and career opportunities.</p><h2>New York (Headquarters)</h2><p>Atelier Voss Architects<br/>45 West 27th Street, 10th Floor<br/>New York, NY 10001<br/>Phone: (555) 678-9012<br/>Email: newyork@ateliervoss.com</p><h2>Portland</h2><p>820 NW Flanders Street, Suite 300<br/>Portland, OR 97209<br/>Phone: (555) 678-9013<br/>Email: portland@ateliervoss.com</p><h2>London</h2><p>14 Clerkenwell Close<br/>London EC1R 0AA<br/>Email: london@ateliervoss.com</p>",
+            "summary": "We welcome inquiries about new projects, collaborations, and career opportunities.New York (Headquarters)Atelier Voss Architects45 West 27th Street, 10th FloorNew York, NY 10001Phone: (555) 678-9012Em"
+          }
+        }
+      }
+    }
+  }
+}

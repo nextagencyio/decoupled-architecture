@@ -1,0 +1,123 @@
+{
+  "data": {
+    "nodeTeamMembers": {
+      "__typename": "NodeTeamMemberConnection",
+      "nodes": [
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-lars",
+          "title": "Lars Voss",
+          "path": "/team/lars-voss",
+          "body": {
+            "processed": "<p>Lars founded Atelier Voss in 1994 after practicing with Renzo Piano Building Workshop in Genoa. His work spans cultural institutions, civic buildings, and high-rise towers across four continents. He holds a Master of Architecture from the ETH Zurich and has lectured at Harvard GSD and Columbia GSAPP.</p>",
+            "summary": "Lars founded Atelier Voss in 1994 after practicing with Renzo Piano Building Workshop in Genoa. His work spans cultural institutions, civic buildings, and high-rise towers across four continents. He h"
+          },
+          "position": "Founding Principal",
+          "email": "lars@ateliervoss.com",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+            "alt": "Lars Voss, Founding Principal",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-maya",
+          "title": "Maya Nakamura",
+          "path": "/team/maya-nakamura",
+          "body": {
+            "processed": "<p>Maya leads the firm's sustainable design practice. With a dual degree in architecture and environmental engineering from MIT, she has pioneered the integration of passive design strategies and renewable energy systems in large-scale projects. Her work has been recognized by the AIA Committee on the Environment.</p>",
+            "summary": "Maya leads the firm's sustainable design practice. With a dual degree in architecture and environmental engineering from MIT, she has pioneered the integration of passive design strategies and renewab"
+          },
+          "position": "Partner, Sustainability",
+          "email": "maya@ateliervoss.com",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80",
+            "alt": "Maya Nakamura, Partner",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeTeamMember",
+          "id": "team-diego",
+          "title": "Diego Marquez",
+          "path": "/team/diego-marquez",
+          "body": {
+            "processed": "<p>Diego directs the firm's urban design and master planning studio. His projects range from waterfront redevelopments to transit-oriented communities. Before joining Atelier Voss, he spent eight years at OMA in Rotterdam, working on large-scale urban projects across Europe and Asia.</p>",
+            "summary": "Diego directs the firm's urban design and master planning studio. His projects range from waterfront redevelopments to transit-oriented communities. Before joining Atelier Voss, he spent eight years a"
+          },
+          "position": "Partner, Urban Design",
+          "email": "diego@ateliervoss.com",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80",
+            "alt": "Diego Marquez, Partner",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

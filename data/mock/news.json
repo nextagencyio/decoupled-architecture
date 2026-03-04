@@ -1,0 +1,120 @@
+{
+  "data": {
+    "nodeNewsItems": {
+      "__typename": "NodeNewsConnection",
+      "nodes": [
+        {
+          "__typename": "NodeNews",
+          "id": "news-expansion",
+          "title": "Atelier Voss Opens London Studio",
+          "path": "/news/london-office-opening",
+          "body": {
+            "processed": "<p>We are excited to announce the opening of our London studio, marking a significant expansion of our international practice. Located in Clerkenwell, the studio will serve as the base for our growing portfolio of European projects.</p><p>The London office will be led by Partner Maya Nakamura and will focus on cultural, commercial, and residential projects across the UK and Europe.</p>",
+            "summary": "We are excited to announce the opening of our London studio, marking a significant expansion of our international practice. Located in Clerkenwell, the studio will serve as the base for our growing po"
+          },
+          "newsCategory": "Firm News",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+            "alt": "London cityscape",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-competition",
+          "title": "Atelier Voss Wins Oslo Opera House Extension Competition",
+          "path": "/news/oslo-opera-competition-win",
+          "body": {
+            "processed": "<p>Our design for the Oslo Opera House extension has been selected from an international shortlist of 120 entries. The winning proposal creates a new performance hall and public landscape that extends the iconic waterfront building.</p><p>The project, expected to break ground in 2026, will add 25,000 square meters of performance and rehearsal spaces while maintaining the beloved public roof of the original building.</p>",
+            "summary": "Our design for the Oslo Opera House extension has been selected from an international shortlist of 120 entries. The winning proposal creates a new performance hall and public landscape that extends th"
+          },
+          "newsCategory": "Competition",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&q=80",
+            "alt": "Architectural competition model",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-sustainability",
+          "title": "Atelier Voss Commits to Carbon-Neutral Design by 2030",
+          "path": "/news/carbon-neutral-commitment",
+          "body": {
+            "processed": "<p>We have pledged that all new projects designed after 2030 will be operationally carbon neutral. This commitment includes investing in research on low-carbon materials, embodied carbon reduction strategies, and renewable energy integration.</p><p>As part of this initiative, we are establishing a dedicated research lab focused on sustainable materials and construction methods.</p>",
+            "summary": "We have pledged that all new projects designed after 2030 will be operationally carbon neutral. This commitment includes investing in research on low-carbon materials, embodied carbon reduction strate"
+          },
+          "newsCategory": "Sustainability",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+            "alt": "Sustainable architecture with green elements",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

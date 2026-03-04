@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-primary-950 text-stone-200;
+  }
+}
+
+@layer components {
+  .dark-card {
+    @apply bg-primary-900 border border-primary-800 rounded-xl;
+  }
+
+  .dark-card-hover {
+    @apply hover:border-stone-500/30 hover:shadow-lg hover:shadow-stone-400/5 transition-all duration-300;
+  }
+
+  .accent-line {
+    @apply w-16 h-0.5 bg-gradient-to-r from-stone-400 to-stone-600;
+  }
+
+  .section-dark {
+    @apply bg-primary-950;
+  }
+
+  .prose-dark {
+    @apply prose-invert prose-headings:text-white prose-p:text-stone-300 prose-a:text-stone-300 prose-strong:text-white;
+  }
+}
+
+@layer utilities {
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  .font-heading {
+    font-family: var(--font-archivo), system-ui, sans-serif;
+  }
+}

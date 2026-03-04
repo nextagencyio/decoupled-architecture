@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Atelier Voss Architects Homepage",
+          "path": "/homepage",
+          "heroTitle": "Spaces That Inspire, Structures That Endure",
+          "heroSubtitle": "Atelier Voss Architects",
+          "heroDescription": {
+            "processed": "<p>We design buildings that respond to their environment, serve their communities, and stand the test of time. From concept to completion, every detail matters.</p>",
+            "summary": "We design buildings that respond to their environment, serve their communities, and stand the test of time. From concept to completion, every detail matters."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-1",
+              "title": "",
+              "number": "200+",
+              "label": "Projects Completed"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-2",
+              "title": "",
+              "number": "35",
+              "label": "Design Awards"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-3",
+              "title": "",
+              "number": "18",
+              "label": "Countries"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-4",
+              "title": "",
+              "number": "30+",
+              "label": "Years of Practice"
+            }
+          ],
+          "featuredItemsTitle": "Selected Projects",
+          "ctaTitle": "Start Your Project With Us",
+          "ctaDescription": {
+            "processed": "<p>Whether you are planning a residential home, a commercial development, or a cultural institution, our team brings vision and precision to every project.</p>",
+            "summary": "Whether you are planning a residential home, a commercial development, or a cultural institution, our team brings vision and precision to every project."
+          },
+          "ctaPrimary": "Discuss Your Project",
+          "ctaSecondary": "View Portfolio"
+        }
+      ]
+    }
+  }
+}
