@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-1",
               "title": "",
-              "number": "200+",
+              "number": "200+", "value": "200+",
               "label": "Projects Completed"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-2",
               "title": "",
-              "number": "35",
+              "number": "35", "value": "35",
               "label": "Design Awards"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-3",
               "title": "",
-              "number": "18",
+              "number": "18", "value": "18",
               "label": "Countries"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-4",
               "title": "",
-              "number": "30+",
+              "number": "30+", "value": "30+",
               "label": "Years of Practice"
             }
           ],
