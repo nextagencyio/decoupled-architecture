@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 async function getAwards() {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_AWARDS, { first: 50 })
+    const data = await client.raw(GET_AWARDS, { first: 50 })
     return data?.nodeAwards?.nodes || []
   } catch (error) {
     console.error('Error fetching awards:', error)
@@ -59,7 +59,7 @@ export default async function AwardsPage() {
             </div>
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {items.map((item) => (
+              {items.map((item: any) => (
                 <AwardCard key={item.id} item={item} />
               ))}
             </div>
